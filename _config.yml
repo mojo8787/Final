@@ -1,0 +1,3 @@
+# Jekyll Configuration File
+source: ./docs
+destination: ./docs/_site
